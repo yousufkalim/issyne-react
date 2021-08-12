@@ -1,0 +1,15 @@
+.cgu{
+    height: 100%;
+    width: 100%;
+    padding: 10rem 10rem;
+    background: url("../../assets//images/dark-purple-shades.png");
+    background-size: cover;
+    color: var(--white);
+
+}
+
+.cgu-content{
+    /* margin: 3rem; */
+    /* margin-bottom: 3rem; */
+    font-size: 1.8rem;
+}

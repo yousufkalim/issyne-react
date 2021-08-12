@@ -1,0 +1,26 @@
+// Bootstrap and its default variables
+$theme-colors: (
+  'primary': #0B70B9,
+  'dark_blue': #38304A,
+  'custom_pink': #D63D8B,
+  'white': #FFFDFD,
+  'gray': #A79291,
+  'pending-color': #850000,
+  'closed': #7D7D7D,
+  'closed-bg':#DBDADA,
+  'progress-color': #008080,
+
+  'new': #3CCC00,
+  'new-bg':#E0FFD4,
+  'waiting-bg': #FCF7CA,
+  'waiting': #FFCD21,
+  'open': #59cbcb,
+  'assigned': #803500,
+  'resloved': #2e8b57,
+  'text-color': #7D7D7D,
+  'color-reopened': #ee9a00,
+  'approving': #fdcb1f,
+);
+
+
+@import 'node_modules/bootstrap/scss/bootstrap';
